@@ -28,7 +28,7 @@
 
 ### 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=humanborch&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ---
 
